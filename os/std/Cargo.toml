@@ -1,0 +1,11 @@
+[package]
+name = "std"
+version = "0.1.0"
+authors = ["Sergio Benitez <sb@sergio.bz>"]
+
+[dependencies]
+hashbrown = "0.7"
+#compiler_builtins = { git = "https://github.com/rust-lang/compiler-builtins" }
+
+#[dependencies]
+#hashbrown = "0.7"

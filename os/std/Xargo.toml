@@ -1,0 +1,6 @@
+[dependencies]
+
+#std_unicode = {}
+# i think std_unicode need to be ignore
+alloc = {}
+

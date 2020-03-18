@@ -1,0 +1,8 @@
+[dependencies]
+core = {}
+# std_unicode = {}
+
+
+[dependencies.std]
+path = "../std"
+stage = 2

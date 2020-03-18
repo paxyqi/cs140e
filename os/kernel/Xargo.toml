@@ -1,0 +1,12 @@
+[dependencies]
+core = {}
+
+#std_unicode = {}
+# this maybe need tobe ignore
+alloc = {}
+
+
+
+[dependencies.std]
+path = "../std"
+stage = 2
