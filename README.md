@@ -1,3 +1,13 @@
+**USAGE**
+
+
+open os/kernel
+```
+PATH="/usr/local/bin/aarch64-none-elf/bin:$PATH"
+make
+```
+
+
 I completed the assignment 0 (blink) and 1(os), then I turned to the assignment 2, which asked me to fetch 2-fs and os. 
 After that, I find the os/std became almost the same as the normol rust std. 
 But unfortunately, the std, alloc and core code of rust are all change a lot since 2018. 
